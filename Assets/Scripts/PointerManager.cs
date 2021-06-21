@@ -48,4 +48,9 @@ public class PointerManager : MonoBehaviour, IMixedRealityPointerHandler
     {
         
     }
+
+    public void OnDictationFinished(string msg)
+    {
+
+    }
 }
